@@ -1,2 +1,1 @@
-# Codsoft_Task-1
-TITANIC SURVIVAL PREDICTION PROJECT
+The Titanic Survival Machine Learning Project is an analysis of the Titanic dataset using logistic regression algorithm to predict passenger survival based on attributes like age, gender, and class. By leveraging data preprocessing, feature engineering, and model selection techniques, this project aims to create a predictive model for understanding the factors that influenced survival rates during this historic event.
